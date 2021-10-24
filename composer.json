@@ -12,5 +12,7 @@
             "email": "asim.sattar76@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    }
 }
