@@ -1,0 +1,16 @@
+{
+    "name": "asim56/laravel-transformer-maker",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Asim56\\LaravelTransformerMaker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asim Sattar",
+            "email": "asim.sattar76@gmail.com"
+        }
+    ],
+    "require": {}
+}
