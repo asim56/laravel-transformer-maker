@@ -2,10 +2,9 @@
 
 namespace Asim56\LaravelTransformerMaker;
 
-class TransformerMaker
+class Transformer
 {
-    public function add($sName)
+    public function index()
     {
-        return 'Hi ' . $sName . '! How are you doing today?';
     }
 }
